@@ -1,0 +1,9 @@
+
+src/organizer/.vscode
+src/organizer/bin
+src/organizer/obj
+test/organizer.test/.vscode
+test/organizer.test/bin
+test/organizer.test/obj
+src/organizer/project.lock.json
+test/organizer.test/project.lock.json
